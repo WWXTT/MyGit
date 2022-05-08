@@ -1,0 +1,15 @@
+﻿################################################################################
+# 此 .gitignore 文件已由 Microsoft(R) Visual Studio 自动创建。
+################################################################################
+
+/UserSettings
+/Temp
+/ProjectSettings
+/Packages
+/obj/Debug
+/Logs
+/Library
+/MixingRule.sln
+/Assembly-CSharp.csproj
+/.vsconfig
+/.vs/MixingRule/v17
